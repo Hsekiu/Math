@@ -1,0 +1,1 @@
+int eulerDivAlg(double*, int);
