@@ -1,1 +1,2 @@
-int eulerDivAlg(double*, int);
+int gcd(int*);
+int phi(int*);
